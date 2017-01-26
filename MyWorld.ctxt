@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\r\n\ Jasmyn\ Stansfield\r\n\ Mr.\ Hardman\r\n\ Final\ Project\r\n\ January\ 26th,\ 2017\r\n\ Check\ 'Senario\ Information'\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ showScore()
+comment4.text=\r\n\ showScore\ will\ show\ the\ score\ to\ the\ user\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ will\ be\ returned\r\n
+comment5.params=
+comment5.target=void\ showTime()
+comment5.text=\r\n\ showTime\ will\ show\ the\ timer\ to\ the\ user\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ will\ be\ returned\r\n
+comment6.params=points
+comment6.target=void\ addScore(int)
+comment6.text=\r\n\ addScore\ add\ points\ to\ the\ current\ score\r\n\ \r\n\ @param\ points\ is\ what\ we\ will\ add\ to\ the\ score\r\n\ @return\ nothing\ will\ be\ returned\r\n
+comment7.params=
+comment7.target=void\ countTime()
+comment7.text=\r\n\ countTime\ will\ count\ down\ the\ time\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ will\ be\ returned\r\n
+comment8.params=
+comment8.target=void\ showEndMessage()
+comment8.text=\r\n\ showEndMessage\ will\ display\ the\ final\ score\ to\ the\ user\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ will\ be\ returned\r\n
+numComments=9
